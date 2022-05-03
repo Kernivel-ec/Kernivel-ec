@@ -71,6 +71,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
   
   #### Top Repositories
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Kernivel-ec/ContarVocalesConsonates">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kernivel-ec&repo=ContarVocalesConsonates&theme=gotham" />
 </a>
