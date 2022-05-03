@@ -75,7 +75,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kernivel-ec&repo=ContarVocalesConsonates&theme=gotham" />
 </a>
   
-<a href="bit.ly/3LGj9Tb">
+<a href="https://bit.ly/3LGj9Tb">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kernivel-ec&repo=burbuja&theme=gotham" />
 </a>
   
