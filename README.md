@@ -1,4 +1,3 @@
-<p align="center"><a href="https://github.com/Kernivel-ec"><img width="20%" src="https://github.com/Kernivel-ec/Kernivel-ec/blob/main/img/Logo%20blanco%20sin%20fondo.png" /></a></p>
 
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.instagram.com/abhisheknaiidu/">
