@@ -14,15 +14,15 @@
 
 <br />
 
-hi, i'm [Kernivel](https://direct.me/kernivel), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+Hola, Yo soy [Kernivel](https://direct.me/kernivel), un apasionado desarrollador web autodidacta de pila completa e ingeniero de software independiente de la India. mi pasión por el software radica en soñar ideas y hacerlas realidad con interfaces elegantes. Cuido mucho la experiencia, la arquitectura y la calidad del código de las cosas que construyo.
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+También soy un entusiasta y mantenedor de código abierto. aprendí mucho de la comunidad de código abierto y me encanta cómo la colaboración y el intercambio de conocimientos se dieron a través del código abierto.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="320" />
   
-- 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
-- 💬 ask me about anything, i am happy to help;
+- 💼 algun trabajo freelance? escribeme, [email](mailto:kernivel@gmail.com) :)
+- 💬 pregúntame sobre cualquier cosa, estoy feliz de ayudar;
 
 **Lenguajes y herramientas:**  
 
@@ -36,7 +36,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="30" src="https://raw.githubusercontent.com/Kernivel-ec/Kernivel-ec/main/img/netBeans.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/Kernivel-ec/Kernivel-ec/419e94ae79edb5a6bb006ebfcdee5681b35b738f/img/eclipse-11.svg"></code>
 
-📊 **this week i spent my time on:**
+📊 **Esta semana pasé mi tiempo en:**
 <!--START_SECTION:waka-->
 
 ```text
@@ -49,24 +49,24 @@ python        0 hr 30 min    █ 5 %
 
 <!--END_SECTION:waka-->
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+si te gusta lo que hago, quizás consideres reservar una tutoria online 🥺👉👈
 
 <a href="https://bit.ly/3KwxG2C" target="_blank"><img src="https://raw.githubusercontent.com/Kernivel-ec/Kernivel-ec/main/img/boton-reserva-b.png" alt="Buy Me A Coffee" width="150" ></a>
 
-🚧 **my todoist stats:**
+🚧 **Mis servicios:**
 <!-- TODO-IST:START -->
-🏆  7,995 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
+🏆  Van de 1, 2 hasta 3 horas de tutorias           
+🌸  Confianza y respeto hacia el studiante           
+✅  Tutoria perzonalizada           
+⏳  No desperdicio tu tiempo, todo automatizado
 <!-- TODO-IST:END -->
 
 
-📈 my github stats
+📈 Mis estadisticas github
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kernivel-ec&show_icons=true&theme=gotham" alt="kernivel-ec" />
   
-  #### Top Repositories
+  #### Top Repositorios
 
 <a href="https://bit.ly/3y3X659">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kernivel-ec&repo=ContarVocalesConsonates&theme=gotham" />
