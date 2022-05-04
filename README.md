@@ -1,23 +1,20 @@
 
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://www.instagram.com/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+### Hey! Hola Mundo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<a href="www.instagram.com/kernivel">
+  <img align="left" alt="kernivel Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+<a href="https://www.facebook.com/kernivel">
+  <img align="left" alt="kernivel Facebook" width="22px" src="https://www.facebook.com/images/fb_icon_325x325.png" />
 </a>
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://twitter.com/kernivel">
+  <img align="left" alt="kernivel | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=kernivel-ec.kernivel-ec)
 
 <br />
 
-hi, i'm [Abhishek Naidu](https://abhishknads.me/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+hi, i'm [Kernivel](https://direct.me/kernivel), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
@@ -27,27 +24,27 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 - 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
 - 💬 ask me about anything, i am happy to help;
 
-**languages and tools:**  
+**Lenguajes y herramientas:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/Kernivel-ec/Kernivel-ec/main/img/php.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/Kernivel-ec/Kernivel-ec/main/img/java.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/Kernivel-ec/Kernivel-ec/main/img/ionic_angular.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/Kernivel-ec/Kernivel-ec/main/img/Mysql.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/Kernivel-ec/Kernivel-ec/main/img/Python.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/Kernivel-ec/Kernivel-ec/main/img/xampp.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/Kernivel-ec/Kernivel-ec/main/img/vscode.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/Kernivel-ec/Kernivel-ec/main/img/netBeans.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/Kernivel-ec/Kernivel-ec/419e94ae79edb5a6bb006ebfcdee5681b35b738f/img/eclipse-11.svg"></code>
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript 3 hrs 36 mins  ██████████████ 57.56 %
-JavaScript 1 hr 28 mins   ██████ 23.44 %
-JSON       1 hr 1 min     ████ 16.37 %
-Other      4 mins         █ 01.21 %
+Java          5 hrs 36 mins  ██████████████ 50 %
+php           3 hr 28 mins   ██████ 20 %
+mysql         1 hr 1 min     ████ 10 %
+ionic+angular 0 hr 30 min    █ 5 %
+python        0 hr 30 min    █ 5 %
 ```
 
 <!--END_SECTION:waka-->
