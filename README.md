@@ -64,7 +64,7 @@ si te gusta lo que hago, quizás consideres reservar una tutoria online 🥺👉
 
 📈 Mis estadisticas github
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kernivel-ec&show_icons=true&theme=gotham" alt="kernivel-ec" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=[kernivel-ec](https://github.com/Kernivel-ec)&show_icons=true&theme=gotham" alt="kernivel-ec" />
   
   #### Top Repositorios
 
