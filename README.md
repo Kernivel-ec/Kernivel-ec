@@ -14,7 +14,7 @@
 
 <br />
 
-Hola, Yo soy [Kernivel](https://direct.me/kernivel), un apasionado desarrollador web autodidacta de pila completa e ingeniero de software independiente. mi pasión por el software radica en soñar ideas y hacerlas realidad con interfaces elegantes. Cuido mucho la experiencia, la arquitectura y la calidad del código de las cosas que construyo.
+Hola, Yo soy [Kernivel](https://bit.ly/3TCmmYm), un apasionado desarrollador web autodidacta de pila completa e ingeniero de software independiente. mi pasión por el software radica en soñar ideas y hacerlas realidad con interfaces elegantes. Cuido mucho la experiencia, la arquitectura y la calidad del código de las cosas que construyo.
 
 También soy un entusiasta y mantenedor de código abierto. aprendí mucho de la comunidad de código abierto y me encanta cómo la colaboración y el intercambio de conocimientos se dieron a través del código abierto.
 
@@ -51,7 +51,7 @@ python        0 hr 30 min    █ 5 %
 
 si te gusta lo que hago, quizás consideres reservar una tutoria online 🥺👉👈
 
-<a href="https://bit.ly/3KwxG2C" target="_blank"><img src="https://raw.githubusercontent.com/Kernivel-ec/Kernivel-ec/main/img/boton-reserva-b.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://bit.ly/3RBsFJR" target="_blank"><img src="https://raw.githubusercontent.com/Kernivel-ec/Kernivel-ec/main/img/boton-reserva-b.png" alt="Buy Me A Coffee" width="150" ></a>
 
 🚧 **Mis servicios:**
 <!-- TODO-IST:START -->
