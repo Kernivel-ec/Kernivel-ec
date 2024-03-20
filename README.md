@@ -6,9 +6,6 @@
 <a href="https://www.facebook.com/kernivel">
   <img align="left" alt="kernivel Facebook" width="22px" src="https://www.facebook.com/images/fb_icon_325x325.png" />
 </a>
-<a href="https://twitter.com/kernivel">
-  <img align="left" alt="kernivel | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=kernivel-ec.kernivel-ec)
 
